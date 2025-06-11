@@ -1,0 +1,8 @@
+{
+  "name": "LECOLE",
+  "short_name": "LECOLE",
+  "icons": [{ "src": "/icons/logo-icon.svg", "sizes": "any", "type": "image/svg+xml" }],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone"
+}

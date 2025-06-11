@@ -1,0 +1,482 @@
+{
+  "common": {
+    "termsOfService": "Điều khoản dịch vụ",
+    "privacyPolicy": "Chính sách bảo mật",
+    "login": "Đăng nhập"
+  },
+  "hero": {
+    "pill": "Ra mắt vào 15 tháng 5",
+    "headline": "Biến tư duy thành văn bản để công việc trở nên",
+    "headlineAdjective1": "hiệu quả",
+    "headlineAdjective2": "thông minh",
+    "headlineAdjective3": "thú vị",
+    "headlineAdjective4": "trực quan",
+    "tagline": "Viết, vẽ, soạn thảo, nghiên cứu tại một nơi. Những công việc học thuật chưa bao giờ dễ dàng đến thế.",
+    "cta": "Nhận thông báo ra mắt"
+  },
+  "header": {
+    "home": "Trang chủ",
+    "pricing": "Giá",
+    "product": "Sản phẩm",
+    "productDesc": "Một không gian làm việc AI công nghệ, dựa trên trí tuệ nhân tạo, dự đoán ngữ cảnh và tổ chức các công việc, giúp bạn giải quyết mọi thách thức học tập và nghiên cứu một cách dễ dàng.",
+    "careers": "Công việc",
+    "careersDesc": "Cùng chúng tôi dựng xây tương lai của giáo dục",
+    "contact": "Liên hệ",
+    "contactDesc": "Hãy cho chúng tôi biết bạn cần gì",
+    "features": "Tính năng",
+    "featuresDesc": "Khám phá các tính năng mạnh mẽ của chúng tôi",
+    "company": "Công ty",
+    "companyDesc": "Chúng tôi là một đội ngũ các kỹ sư phần mềm đam mê với việc làm việc để mang đến trải nghiệm học tập và nghiên cứu tốt nhất cho bạn.",
+    "companion": "Trợ lý",
+    "companionDesc": "Một trợ lý học tập chủ động, tự động soạn thảo, tóm tắt và tổ chức nghiên cứu để bạn tập trung vào hiểu biết sâu, không phải công việc vặt.",
+    "workspace": "Workspace",
+    "workspaceDesc": "Một không gian làm việc AI công nghệ, dựa trên trí tuệ nhân tạo, dự đoán ngữ cảnh và tổ chức các công việc, giúp bạn giải quyết mọi thách thức học tập và nghiên cứu một cách dễ dàng.",
+    "calendar": "Lịch",
+    "calendarDesc": "Một lịch trình học tập cá nhân hóa dựa trên các mục tiêu học tập và tiến độ thời gian thực.",
+    "aboutUs": "Về chúng tôi",
+    "aboutUsDesc": "Chúng tôi là một đội ngũ gồm các kỹ sư phần mềm với sứ mệnh mang đến trải nghiệm học tập và nghiên cứu tốt nhất cho bạn.",
+    "contactUs": "Liên hệ",
+    "contactUsDesc": "Chúng tôi sẽ giúp bạn tìm câu trả lời cho bất kỳ câu hỏi nào.",
+    "bookDemo": "Đặt lịch demo",
+    "theme": "Giao diện"
+  },
+  "companion": {
+    "platform": "Trợ lý AI",
+    "title": "Người bạn học thông minh của bạn",
+    "description": "Một trợ lý tự động soạn thảo, tóm tắt và tổ chức nghiên cứu để bạn tập trung vào hiểu biết sâu, không phải công việc vặt.",
+    "contextAware": "Hiểu ngữ cảnh",
+    "contextAwareDesc": "Hiểu bối cảnh học tập của bạn và cung cấp hỗ trợ phù hợp dựa trên tài liệu học tập hiện tại của bạn.",
+    "adaptiveLearning": "Học tập thích ứng",
+    "adaptiveLearningDesc": "Điều chỉnh theo phong cách và tốc độ học tập của bạn, cung cấp hướng dẫn và hỗ trợ cá nhân hóa.",
+    "smartSuggestions": "Gợi ý thông minh",
+    "smartSuggestionsDesc": "Chủ động đề xuất tài nguyên và hiểu biết sâu sắc để nâng cao trải nghiệm học tập của bạn.",
+    "naturalInteraction": "Tương tác tự nhiên",
+    "naturalInteractionDesc": "Giao tiếp tự nhiên với trợ lý AI của bạn thông qua văn bản, giọng nói hoặc đa phương thức."
+  },
+  "footer": {
+    "home": "Trang chủ",
+    "features": "Tính năng",
+    "company": "Công ty",
+    "followUs": "Theo dõi",
+    "companion": "Trợ lý",
+    "workspace": "Workspace",
+    "calendar": "Lịch",
+    "aboutUs": "Về chúng tôi",
+    "contactUs": "Liên hệ",
+    "tagline": "Vì một trải nghiệm học tập và nghiên cứu tốt hơn.",
+    "language": "Ngôn ngữ"
+  },
+  "features": {
+    "platform": "Một nền tảng đa dụng",
+    "intelligentFeatures": "Thông minh, mạnh mẽ và hiểu bạn.",
+    "featuresDescription": "Một nơi để tập trung làm việc và phát triển, với các công cụ được thiết kế trực quan, đơn giản hóa mọi thách thức trong học tập và nghiên cứu.",
+    "contextAwareWorkspace": "Không gian làm việc hiểu bạn",
+    "contextAwareDesc": "Một cuốn sổ tay vượt trội có thể nhận biết được nhu cầu của bạn, hiển thị lại các ghi chú liên quan và liên kết các khái niệm tự động để kiến thức lưu chuyển dễ dàng.",
+    "realTimeSmartEditing": "Chỉnh sửa thông minh thời gian thực",
+    "realTimeSmartEditingDesc": "Gõ nhanh bằng tốc độ của ý nghĩ với tính năng gõ dự đoán thần tốc và gợi ý AI trực tiếp.",
+    "multimodalCapture": "Ghi chép đa phương thức",
+    "multimodalCaptureDesc": "Thả hình ảnh, phương trình, hoặc ghi âm—LECOLE chuyển đổi và gắn thẻ mọi thứ ngay lập tức.",
+    "knowledgeGraphView": "Xem biểu đồ kiến thức",
+    "knowledgeGraphViewDesc": "Trực quan hóa mối quan hệ giữa các ý tưởng một cách tự động.",
+    "adaptiveStudyPlans": "Kế hoạch học tập thích ứng",
+    "adaptiveStudyPlansDesc": "Sắp xêp lịch học tập cá nhân hóa dựa trên các lưu ý và ghi chú.",
+    "instantCitations": "Trích dẫn & Tài liệu tham khảo tức thì",
+    "instantCitationsDesc": "Một cú nhấp để tự động định dạng trích dẫn và thư mục tham khảo theo bất kỳ kiểu chính nào.",
+    "crossDeviceSync": "Đồng bộ đa thiết bị",
+    "crossDeviceSyncDesc": "Giữ không gian làm việc của bạn cập nhật trên laptop, máy tính bảng và điện thoại—ngay cả khi ngoại tuyến.",
+    "agenticLearningCompanion": "Trợ lý học tập chủ động",
+    "agenticLearningCompanionDesc": "Một trợ lý soạn thảo, tóm tắt và nghiên cứu để bạn tập trung vào hiểu biết sâu, không phải công việc vặt."
+  },
+  "fastest": {
+    "headlinePart1": "Sổ tay",
+    "fastest": "nhanh nhất",
+    "headlinePart2": "thế giới,",
+    "headlinePart3": "trải nghiệm mượt mà",
+    "taglinePart1": "Quá nhanh, quá nguy hiểm, LECOLE được xây dựng với một tâm niệm trong đầu: trở thành một ứng dụng ghi chép nhanh nhất thế giới.",
+    "taglinePart2": "Không chỉ nhanh trong thao tác, mà còn trong tiềm thức, cuốn sổ này hiểu bạn ngay trước khi bạn gõ.",
+    "prefetching": "Công nghệ này cho phép 'dự đoán' hành động của bạn và tải dữ liệu trước.",
+    "caching": "Sau khi dữ liệu được tải, nó được lưu vào phiên hiện tại của bạn để tránh tải lại.",
+    "localFirstApproach": "Ưu tiên xử lý tại thiết bị",
+    "localFirstApproachDesc": "Tận dụng tài nguyên của thiết bị. Mọi thao tác sẽ diễn ra trên thiết bị của bạn, bảo mật và tức thì.",
+    "optimisedForSpeed": "Nhanh nhất và an toàn nhất",
+    "wideRangeOfTools": "Các công cụ",
+    "toExpressYourIdeas": "để kiến tạo ý tưởng",
+    "goalsWithLeastAmountOfClicks": "Hàng loạt các công cụ sẵn có để giúp bạn hoàn thành mục tiêu của mình với ít thao tác nhất.",
+    "excalidraw": "Excalidraw",
+    "excalidrawDesc": "Excalidraw là công cụ bảng trắng để bạn tạo ra các biểu đồ, bản vẽ trực quan và đẹp mắt.",
+    "mermaidDiagrams": "Biểu đồ Mermaid",
+    "mermaidDiagramsDesc": "Mermaid là công cụ vẽ biểu đồ và sơ đồ hàn lâm để bạn minh hoạ kiến thức khoa học dễ dàng.",
+    "customFiles": "Tệp tùy chỉnh",
+    "customFilesDesc": "Tải lên bất kỳ tệp nào để tạo biểu đồ kiến thức của riêng bạn và hỏi chúng."
+  },
+  "inSync": {
+    "headline": "Bảo mật và đồng bộ",
+    "description": "Ghi chú của bạn luôn đồng bộ trên tất cả các thiết bị của bạn qua Google Drive, với nhiều nhà cung cấp hơn trong tương lai. Dữ liệu của bạn được bảo mật và không bao giờ thông qua máy chủ của LECOLE."
+  },
+  "workspace": {
+    "title": "Không gian làm việc",
+    "headline": "Một workspace làm việc hoàn hảo",
+    "tagline": "Một không gian làm việc mạnh mẽ thích ứng với quy trình làm việc và",
+    "enhancesProductivity": "nâng cao năng suất của bạn.",
+    "flexibleLayout": "Bố cục linh hoạt",
+    "flexibleLayoutDesc": "Tùy chỉnh không gian làm việc của bạn với nhiều bảng điều khiển, tab và chế độ xem chia đôi để sắp xếp nội dung chính xác theo cách bạn muốn.",
+    "seamlessSync": "Đồng bộ liền mạch",
+    "seamlessSyncDesc": "Không gian làm việc của bạn tự động đồng bộ trên tất cả các thiết bị, đảm bảo bạn luôn có quyền truy cập vào công việc mới nhất của mình.",
+    "realTimeCollaboration": "Cộng tác thời gian thực",
+    "realTimeCollaborationDesc": "Làm việc cùng với đồng đội trong thời gian thực, xem các thay đổi của nhau ngay lập tức khi bạn cộng tác trong dự án.",
+    "collaboration": "Cộng tác",
+    "collaborationHeadline": "Làm việc xuyên suốt",
+    "withYourTeam": "với đội của bạn",
+    "collaborationTagline": "Cộng tác trong thời gian thực với các công cụ mạnh mẽ được thiết kế cho làm việc nhóm",
+    "realTimeEditing": "Chỉnh sửa thời gian thực",
+    "realTimeEditingDesc": "Chỉnh sửa tài liệu đồng thời với các thành viên trong nhóm, xem các thay đổi khi chúng xảy ra với con trỏ trực tiếp và chỉ báo hiện diện.",
+    "versionControl": "Kiểm soát phiên bản",
+    "versionControlDesc": "Theo dõi các thay đổi với lịch sử phiên bản tích hợp, cho phép bạn xem lại, so sánh và khôi phục các phiên bản trước đó của công việc.",
+    "cloudIntegration": "Tích hợp đám mây",
+    "cloudIntegrationDesc": "Kết nối liền mạch với các dịch vụ đám mây phổ biến để nhập, xuất và chia sẻ công việc của bạn trên các nền tảng khác nhau.",
+    "crossPlatform": "Đa nền tảng",
+    "crossPlatformHeadline": "Làm việc của bạn",
+    "fromAnyDevice": "từ bất kỳ thiết bị nào",
+    "crossPlatformTagline": "Không gian làm việc của bạn theo bạn mọi nơi, với các ứng dụng gốc cho tất cả các nền tảng chính",
+    "comingSoon": "Sắp ra mắt",
+    "desktopApps": "Ứng dụng máy tính",
+    "desktopAppsDesc": "Các ứng dụng gốc mạnh mẽ cho Windows, macOS và Linux với tích hợp hệ thống đầy đủ và khả năng làm việc ngoại tuyến.",
+    "tabletExperience": "Trải nghiệm máy tính bảng",
+    "tabletExperienceDesc": "Các ứng dụng máy tính bảng được tối ưu hóa với hỗ trợ cảm ứng và bút stylus, hoàn hảo để ghi chú và vẽ trên iPad và máy tính bảng Android.",
+    "mobileAccess": "Truy cập di động",
+    "mobileAccessDesc": "Duy trì năng suất khi di chuyển với các ứng dụng di động đầy đủ tính năng đồng bộ ngay lập tức với không gian làm việc máy tính của bạn."
+  },
+  "smartest": {
+    "academicNeeds": "Xây dựng từ đầu, từ nhu cầu học tập của bạn",
+    "academicTagline": "Một trải nghiệm ghi chú trực quan giúp việc viết ghi chú trở nên tự nhiên như cầm bút.",
+    "academicDescription": "Bạn nên dành nhiều thời gian hơn để nghe bài giảng và bớt thời gian gõ ghi chú.",
+    "aiModels": "Được hỗ trợ bởi các mô hình AI tốt nhất",
+    "aiModelsTagline": "Tận dụng các mô hình ngôn ngữ lớn (LLM) hiện đại nhất để đưa trải nghiệm ghi chú của bạn lên một tầm cao mới",
+    "aiModelsDescription": "Chúng tôi cung cấp mọi mô hình bạn có thể cần. Bạn có thể lựa chọn thoả thích theo nhu cầu. Nếu có mô hình nào khác bạn muốn thêm, hãy cho chúng tôi biết và bạn sẽ có trong vài giờ.",
+    "academicallyTuned": "Tinh chỉnh cho học thuật",
+    "academicallyTunedDesc": "Tích hợp kiến thức học thuật, bài kiểm tra chuẩn hóa, bài báo nghiên cứu và nhiều hơn nữa.",
+    "agenticToolset": "Bộ công cụ thông minh",
+    "agenticToolsetDesc": "Các mô hình của chúng tôi được trang bị hàng chục công cụ (và đang tiếp tục phát triển) để giúp bạn trong công việc.",
+    "realTimeInternet": "Truy cập internet thời gian thực",
+    "realTimeInternetDesc": "Nhận câu trả lời chính xác cho câu hỏi của bạn với phản hồi không hề hư cấu.",
+    "knowsYourKnowledge": "Hiểu biết kiến thức của bạn",
+    "knowsYourKnowledgeDesc": "Nhận câu trả lời từ workspace của bạn hoặc tài liệu. Giải đáp mọi vấn đề chỉ với một cú nhấp chuột.",
+    "multiModal": "Đa phương thức",
+    "multiModalDesc": "Hình ảnh, âm thanh, hoặc video YouTube. Chúng tôi hỗ trợ tất cả. Bạn không cần phải gõ. Hãy để AI làm việc.",
+    "speedy": "Tốc độ cao",
+    "speedyDesc": "Giống như Workspace, các mô hình AI của chúng tôi nhanh lắm. Hãy thử và bạn sẽ thấy.",
+    "growsWithYou": "Phát triển cùng bạn",
+    "growsWithYouDesc": "AI nhớ bạn là ai (một cách an toàn), và có quyền truy cập vào toàn bộ không gian làm việc của bạn (nếu bạn cho phép), phấn đấu trở thành một bạn học tuyệt vời.",
+    "everythingElse": "Và mọi thứ khác",
+    "everythingElseDesc": "Không chỉ là về các tính năng, mà còn về trải nghiệm. Chúng tôi sẽ hỗ trợ bạn."
+  },
+  "k12": {
+    "platform": "Tiện ích",
+    "forStudents": "Dành cho học sinh",
+    "forStudentsDesc": "Quản lý ghi chú và tài liệu học tập dễ dàng.",
+    "simplifiedNoteTaking": "Đơn giản hoá ghi chú",
+    "simplifiedNoteTakingDesc": "Tập trung vào hiểu bài trong khi LECOLE giúp tổ chức ghi chú của bạn.",
+    "conceptConnections": "Kết nối khái niệm",
+    "conceptConnectionsDesc": "Xem cách các môn học và chủ đề khác nhau kết nối với nhau để hiểu sâu hơn.",
+    "studyAssistance": "Hỗ trợ học tập",
+    "studyAssistanceDesc": "Tạo câu hỏi thực hành, tóm tắt và hướng dẫn học tập từ ghi chú của bạn.",
+    "satIntegration": "Hỗ trợ SAT",
+    "satIntegrationDesc": "Tích hợp câu hỏi và bài tập thực hành SAT ngay tại tay, với thêm kỳ thi sắp tới."
+  },
+  "researcher": {
+    "platform": "Tiện ích",
+    "forResearchers": "Dành cho nhà nghiên cứu",
+    "forResearchersDesc": "Quản lý bài báo và ghi chú nghiên cứu dễ dàng.",
+    "literatureConnections": "Kết nối tài liệu",
+    "literatureConnectionsDesc": "Khám phá các kết nối giữa các bài báo và nghiên cứu mà bạn có thể đã bỏ lỡ.",
+    "advancedOrganization": "Tổ chức nâng cao",
+    "advancedOrganizationDesc": "Tổ chức nghiên cứu phức tạp với phân loại và gắn thẻ thông minh.",
+    "insightGeneration": "Học rộng hiểu sâu",
+    "insightGenerationDesc": "Khám phá các mẫu và tạo ra các giả thuyết dựa trên nghiên cứu đã thu thập của bạn."
+  },
+  "faq": {
+    "faq": "FAQ",
+    "frequentlyAskedQuestions": "Câu hỏi thường gặp",
+    "questionsAnswers": "Có câu hỏi? Chúng tôi có câu trả lời.",
+    "anyQuestions": "Còn câu hỏi nào không? Liên hệ nhé",
+    "platformsQuestion": "LECOLE hỗ trợ những nền tảng nào?",
+    "platformsAnswer": "LECOLE chạy trên mọi trình duyệt web hiện đại và chúng tôi sẽ sớm cung cấp các ứng dụng chuyên dụng cho iOS, Android, MacOS và Window.",
+    "privacyQuestion": "Dữ liệu của tôi có an toàn và riêng tư không?",
+    "privacyAnswer": "Có. LECOLE tuân thủ các nguyên tắc FERPA và GDPR, mã hóa dữ liệu khi truyền và lưu trữ, và không bao giờ bán thông tin sinh viên.",
+    "agenticQuestion": "Trợ lý học tập chủ động khác gì so với trò chuyện AI thông thường?",
+    "agenticAnswer": "Nó duy trì ngữ cảnh dài hạn từ ghi chú của bạn và chủ động tổ chức, soạn thảo và lên lịch, hoạt động giống như một đồng nghiên cứu hơn là một chatbot.",
+    "collaborationQuestion": "Tôi có thể cộng tác với bạn học hoặc đồng nghiệp không?",
+    "collaborationAnswer": "Chắc chắn rồi. Chỉnh sửa đồng thời theo thời gian thực, bình luận nội tuyến và không gian làm việc chung cho phép các nhóm tạo cùng nhau từ bất cứ đâu.",
+    "freePlanQuestion": "Bạn có cung cấp gói miễn phí không?",
+    "freePlanAnswer": "Có. Sinh viên có thể bắt đầu với gói miễn phí không giới hạn các tính năng phổ thông; các gói nâng cấp hỗ trợ việc sử dụng AI nâng cao."
+  },
+  "cta": {
+    "getStarted": "Bắt đầu",
+    "startThinkingFreely": "Bắt đầu tự do suy nghĩ với LECOLE",
+    "joinThousands": "Tham gia cùng hàng nghìn sinh viên và nhà nghiên cứu đang tăng tốc học tập với không gian làm việc được hỗ trợ bởi AI.",
+    "cta": "Nhận thông báo ra mắt",
+    "seeHowItWorks": "Xem cách hoạt động"
+  },
+  "comingSoon": {
+    "title": "Sắp ra mắt"
+  },
+  "product": {
+    "subscribe": {
+      "title": "Cập nhật thông tin mới nhất",
+      "description": "Đăng ký nhận bản tin để nhận các cập nhật và tin tức mới nhất về sản phẩm của chúng tôi.",
+      "nameLabel": "Tên",
+      "namePlaceholder": "Tên của bạn",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Địa chỉ email của bạn",
+      "buttonText": "Đăng ký",
+      "submittingText": "Đang đăng ký...",
+      "successTitle": "Cảm ơn bạn đã đăng ký!",
+      "successMessage": "Chúng tôi sẽ cập nhật cho bạn những tin tức và thông tin sản phẩm mới nhất."
+    },
+    "aboutTheProduct": "Về sản phẩm",
+    "productDescription": "Chúng tôi có sứ mệnh làm cho việc học trở nên dễ tiếp cận với tất cả mọi người. Nền tảng đầu tiên đặt trọng tâm vào trải nghiệm của người học.",
+    "comingSoonFeatures": {
+      "calendar": "LECOLE Calendar",
+      "calendarDesc": "Quản lý lịch trình và nhiệm vụ của bạn một cách dễ dàng.",
+      "community": "LECOLE Community",
+      "communityDesc": "Xuất bản ghi chú của bạn và tạo các cuộc trò chuyện với đồng nghiệp.",
+      "workspace": "LECOLE Workspace App",
+      "workspaceDesc": "Ứng dụng độc lập cho iOS, Android, MacOS và Windows.",
+      "tab": "Tab tab",
+      "tabDesc": "Tự động hoàn thành ghi chú của bạn với AI. Chỉ cần nhấn tab đơn giản và để LECOLE làm phần còn lại."
+    }
+  },
+  "products": {
+    "title": "Products",
+    "workspace": {
+      "title": "Workspace",
+      "description": "Một không gian làm việc AI, hiện đại và hiểu bạn; thông minh và linh hoạt."
+    },
+    "companion": {
+      "title": "Companion",
+      "description": "Sử dụng bất kỳ mô hình AI nào để giúp bạn với công việc của mình."
+    }
+  },
+  "pricing": {
+    "aboutThePrice": "Về giá cả",
+    "tagline": "Miễn phí cho tất cả người học với tùy chọn nâng cấp hợp lý để nâng cao workspace của bạn với AI.",
+    "free": "Miễn phí",
+    "freePrice": "$0",
+    "freeDescription": "Miễn phí cho tất cả người học",
+    "pro": "Pro",
+    "proPrice": "$10",
+    "proDescription": "Tận dụng sức mạnh của AI",
+    "getStarted": "Bắt đầu",
+    "getStartedLink": "https://store.lecole.tech/buy/22765e2f-ae5c-4460-b152-e4c230b8c7f7",
+    "features": {
+      "unlimitedNotes": "Ghi chú không giới hạn",
+      "crossDeviceSync": "Đồng bộ đa thiết bị",
+      "fastestNoteTaking": "Ghi chú nhanh nhất",
+      "storage25MB": "Lưu trữ ghi chú công khai 25MB",
+      "aiAutoCompletion": "Tự động hoàn thành AI",
+      "threeLLMModels": "3 mô hình LLM",
+      "allFreeFeatures": "Tất cả tính năng miễn phí +",
+      "storage2GB": "Lưu trữ ghi chú công khai 2GB",
+      "unlimitedAI": "AI auto-complete không giới hạn",
+      "tenPlusModels": "10+ mô hình LLM",
+      "customLLMAPI": "API LLM tùy chỉnh",
+      "supportMission": "Hỗ trợ sứ mệnh của chúng tôi"
+    },
+    "comparisonTable": {
+      "free": "Miễn phí",
+      "pro": "Pro",
+      "features": "Tính năng",
+      "unlimitedNote": "Ghi chú không giới hạn",
+      "publicStorage25MB": "l.Lưu trữ công khai 25MB",
+      "publicStorage2GB": "Lưu trữ công khai 2GB",
+      "crossDeviceSync": "Đồng bộ đa thiết bị",
+      "realtimeSync": "Đồng bộ đa thiết bị thời gian thực",
+      "limitedAutoCompletion": "l.100 lần tự động hoàn thành AI mỗi tháng",
+      "unlimitedAutoCompletion": "AI auto-complete không giới hạn",
+      "liteModels": "l.3 mô hình Lite",
+      "tenPlusModels": "10+ mô hình",
+      "limitedMessages": "l.20 tin nhắn miễn phí mỗi tháng",
+      "premiumMessages": "1500 tin nhắn cao cấp mỗi tháng",
+      "noYouTubeAnalysis": "Phân tích YouTube",
+      "multiMediaAnalysis": "Phân tích YouTube, Hình ảnh, PDF, Âm thanh",
+      "noCustomAPI": "x.API LLM tùy chỉnh",
+      "customAPI": "API LLM tùy chỉnh",
+      "communitySupport": "l.Hỗ trợ cộng đồng",
+      "prioritySupport": "Hỗ trợ ưu tiên",
+      "noExport": "x.Xuất PDF, Markdown, Docx",
+      "export": "Xuất PDF, Markdown, Docx",
+      "backup": "Sao lưu ghi chú của bạn",
+      "limitedSAT": "l.Công cụ tạo câu hỏi SAT giới hạn token",
+      "unlimitedSAT": "Công cụ tạo câu hỏi SAT không giới hạn",
+      "fastestExperience": "Trải nghiệm nhanh nhất, an toàn nhất"
+    },
+    "callOut": "Mang tâm huyết vào từng công đoạn, tự hào Made in Việt Nam."
+  },
+  "oauthHomepage": {
+    "title": "LECOLE - Nền tảng Luyện thi SAT Số",
+    "appPurpose": "Mục đích Ứng dụng",
+    "appPurposeDesc": "LECOLE là một nền tảng học tập số toàn diện được thiết kế để giúp học sinh chuẩn bị cho các kỳ thi chuẩn hóa, đặc biệt là Digital SAT. Nền tảng của chúng tôi cung cấp câu hỏi luyện tập cá nhân hóa, tài liệu học tập và hỗ trợ học tập được hỗ trợ bởi AI để giúp học sinh đạt được mục tiêu học tập. Chúng tôi kết hợp công nghệ AI tiên tiến với chuyên môn giáo dục để tạo ra trải nghiệm học tập hiệu quả và hấp dẫn.",
+    "identity": "Mô tả chính xác về danh tính ứng dụng",
+    "identityDesc": "LECOLE (lecole.tech) là một nền tảng công nghệ giáo dục tạo ra các câu hỏi luyện tập Digital SAT được cá nhân hóa và cung cấp tài liệu chuẩn bị thi toàn diện. Ứng dụng của chúng tôi đóng vai trò như một người bạn đồng hành học tập hoàn chỉnh cho học sinh chuẩn bị cho các kỳ thi chuẩn hóa và theo đuổi giáo dục đại học.",
+    "userData": "Ứng dụng sẽ làm gì với dữ liệu người dùng",
+    "userDataDesc": "LECOLE thu thập dữ liệu người dùng tối thiểu cần thiết để cung cấp dịch vụ giáo dục cá nhân hóa: tên, địa chỉ email và ảnh hồ sơ (nếu có). Thông tin này được sử dụng để: (1) Tạo và duy trì tài khoản người dùng, (2) Cá nhân hóa trải nghiệm học tập và theo dõi tiến độ, (3) Cung cấp hỗ trợ khách hàng và hỗ trợ kỹ thuật, (4) Bảo vệ nền tảng của chúng tôi khỏi truy cập trái phép và lạm dụng, (5) Gửi cập nhật giáo dục và báo cáo tiến độ (với sự đồng ý của người dùng). Chúng tôi không bao giờ bán dữ liệu người dùng cho bên thứ ba và tuân thủ các tiêu chuẩn bảo mật giáo dục bao gồm FERPA và COPPA.",
+    "enhanceFunc": "Cách ứng dụng nâng cao chức năng cho người dùng",
+    "enhanceFuncDesc": "LECOLE nâng cao việc học của học sinh thông qua: (1) Tạo câu hỏi cá nhân hóa được hỗ trợ bởi AI dựa trên các mẫu học tập cá nhân, (2) Bài kiểm tra luyện tập thích ứng điều chỉnh độ khó dựa trên hiệu suất, (3) Phân tích hiệu suất toàn diện và theo dõi tiến độ, (4) Tài liệu học tập và giải thích tương tác, (5) Tính năng học tập cộng tác để tương tác với bạn bè, (6) Tích hợp với các công cụ và nền tảng giáo dục phổ biến. Nền tảng của chúng tôi thích ứng với phong cách và tốc độ học tập của từng học sinh để tối đa hóa hiệu quả giáo dục.",
+    "privacyPolicyLink": "Chính sách Bảo mật:",
+    "privacyPolicyLinkText": "Xem Chính sách Bảo mật đầy đủ của chúng tôi",
+    "appDesc": "Bối cảnh giáo dục và sứ mệnh",
+    "appDescText": "LECOLE cam kết dân chủ hóa việc tiếp cận các nguồn tài nguyên chuẩn bị thi và giáo dục chất lượng cao. Nền tảng của chúng tôi đặc biệt giải quyết nhu cầu của học sinh chuẩn bị cho Digital SAT và các kỳ thi chuẩn hóa khác. Chúng tôi phục vụ các tổ chức giáo dục, học sinh cá nhân và gia đình bằng cách cung cấp các công cụ học tập giá cả phải chăng, hiệu quả và dễ tiếp cận. Sứ mệnh của chúng tôi là giúp học sinh đạt được mục tiêu học tập và mở khóa cơ hội giáo dục thông qua việc học tập được nâng cao bởi công nghệ.",
+    "limitedUseTitle": "Tiết lộ Sử dụng Hạn chế Google OAuth2",
+    "limitedUseDesc": "Việc sử dụng thông tin nhận được từ Google APIs của LECOLE tuân thủ",
+    "googleAPIPolicy": "Chính sách Dữ liệu Người dùng Dịch vụ API Google",
+    "limitedUseDetails": "bao gồm các yêu cầu Sử dụng Hạn chế. Chúng tôi chỉ yêu cầu thông tin hồ sơ cơ bản (tên, email, ảnh hồ sơ) cần thiết để tạo tài khoản và xác định người dùng. Chúng tôi không yêu cầu quyền truy cập vào bất kỳ dữ liệu dịch vụ Google nào ngoài thông tin hồ sơ cơ bản."
+  },
+  "privacyPolicy": {
+    "title": "Chính sách Bảo mật Bộ SAT Kỹ thuật số LECOLE",
+    "lastUpdated": "Cập nhật lần cuối: Ngày 24 tháng 5 năm 2024",
+    "sections": {
+      "introduction": {
+        "title": "1. Giới thiệu",
+        "content": "LECOLE (\"chúng tôi\", \"của chúng tôi\") cam kết bảo vệ quyền riêng tư của bạn. Chính sách Bảo mật này giải thích cách chúng tôi thu thập, sử dụng và chia sẻ thông tin cá nhân của bạn khi bạn sử dụng ứng dụng web Bộ SAT Kỹ thuật số của chúng tôi (\"Ứng dụng\"). Bằng cách sử dụng Ứng dụng, bạn đồng ý với các thực tiễn được mô tả trong Chính sách Bảo mật này."
+      },
+      "infoCollect": {
+        "title": "2. Thông tin Chúng tôi Thu thập",
+        "personalInfo": {
+          "title": "2.1 Thông tin Cá nhân",
+          "content": "Chúng tôi có thể thu thập các loại thông tin cá nhân sau đây khi bạn tạo tài khoản hoặc sử dụng Ứng dụng:",
+          "contactInfo": "Thông tin Liên hệ: Tên, địa chỉ email.",
+          "paymentInfo": "Thông tin Thanh toán: Chi tiết thanh toán khi bạn mua Dịch vụ (được thu thập và xử lý an toàn bởi Lemon Squeezy cho thanh toán thẻ ghi nợ/tín dụng/quốc tế hoặc qua mã QR cho thanh toán tại Việt Nam).",
+          "userContent": "Nội dung Người dùng: Thông tin bạn gửi, đăng hoặc hiển thị thông qua Ứng dụng, chẳng hạn như câu trả lời bài kiểm tra thực hành hoặc ghi chú học tập.",
+          "usageData": "Dữ liệu Sử dụng: Thông tin về cách bạn sử dụng Ứng dụng, chẳng hạn như các tính năng bạn truy cập, các trang bạn truy cập và thời gian dành cho mỗi trang."
+        },
+        "nonPersonalInfo": {
+          "title": "2.2 Thông tin Không Cá nhân",
+          "content": "Chúng tôi cũng có thể thu thập thông tin không cá nhân, chẳng hạn như loại thiết bị của bạn, loại trình duyệt và địa chỉ IP. Thông tin này được thu thập thông qua cookie và các công nghệ tương tự."
+        }
+      },
+      "useInfo": {
+        "title": "3. Cách Chúng tôi Sử dụng Thông tin của Bạn",
+        "content": "Chúng tôi sử dụng thông tin của bạn cho các mục đích sau:",
+        "points": [
+          "Để Cung cấp và Cải thiện Dịch vụ: Để cung cấp, duy trì và cải thiện Ứng dụng và các tính năng của nó, để cá nhân hóa trải nghiệm của bạn và phân tích xu hướng sử dụng.",
+          "Để Giao tiếp với Bạn: Để gửi cho bạn thông tin hành chính, cập nhật, thông báo và thông tin tiếp thị nếu bạn đã chọn nhận chúng.",
+          "Để Xử lý Thanh toán: Để xử lý thanh toán cho Dịch vụ thông qua Lemon Squeezy hoặc thanh toán mã QR.",
+          "Để Bảo vệ Quyền của Chúng tôi: Để bảo vệ quyền, tài sản hoặc an toàn của chúng tôi, hoặc quyền, tài sản hoặc an toàn của người khác."
+        ]
+      },
+      "shareInfo": {
+        "title": "4. Cách Chúng tôi Chia sẻ Thông tin của Bạn",
+        "content": "Chúng tôi có thể chia sẻ thông tin của bạn với các bên sau:",
+        "points": [
+          "Nhà cung cấp Dịch vụ: Chúng tôi có thể chia sẻ thông tin của bạn với các nhà cung cấp dịch vụ bên thứ ba giúp chúng tôi vận hành Ứng dụng, xử lý thanh toán hoặc cung cấp các dịch vụ khác.",
+          "Lemon Squeezy: Chúng tôi chia sẻ thông tin thanh toán với Lemon Squeezy để xử lý thanh toán một cách an toàn.",
+          "Tuân thủ Pháp luật: Chúng tôi có thể chia sẻ thông tin của bạn nếu được yêu cầu bởi luật pháp, quy định hoặc quy trình pháp lý.",
+          "Chuyển giao Kinh doanh: Chúng tôi có thể chia sẻ hoặc chuyển giao thông tin của bạn liên quan đến việc sáp nhập, mua lại hoặc bán tất cả hoặc một phần tài sản của chúng tôi."
+        ]
+      },
+      "choices": {
+        "title": "5. Lựa chọn của Bạn",
+        "content": "Bạn có các lựa chọn sau đây liên quan đến thông tin của mình:",
+        "points": [
+          "Thông tin Tài khoản: Bạn có thể cập nhật hoặc sửa thông tin tài khoản của mình bất cứ lúc nào.",
+          "Thông tin Tiếp thị: Bạn có thể từ chối nhận thông tin tiếp thị bằng cách làm theo hướng dẫn trong các thông tin đó.",
+          "Cookie: Bạn có thể vô hiệu hóa cookie thông qua cài đặt trình duyệt của mình, nhưng điều này có thể giới hạn khả năng sử dụng một số tính năng của Ứng dụng."
+        ]
+      },
+      "security": {
+        "title": "6. An ninh Dữ liệu",
+        "content": "Chúng tôi thực hiện các biện pháp hợp lý để bảo vệ thông tin của bạn khỏi truy cập, tiết lộ, thay đổi hoặc phá hủy trái phép. Tuy nhiên, không có phương pháp truyền dẫn qua internet hoặc lưu trữ điện tử nào hoàn toàn an toàn."
+      },
+      "retention": {
+        "title": "7. Lưu giữ Dữ liệu",
+        "content": "Chúng tôi sẽ lưu giữ thông tin của bạn miễn là tài khoản của bạn còn hoạt động hoặc khi cần thiết để cung cấp cho bạn Dịch vụ. Chúng tôi cũng có thể lưu giữ và sử dụng thông tin của bạn khi cần thiết để tuân thủ nghĩa vụ pháp lý của chúng tôi, giải quyết tranh chấp và thực thi các thỏa thuận của chúng tôi."
+      },
+      "children": {
+        "title": "8. Quyền riêng tư của Trẻ em",
+        "content": "Ứng dụng không dành cho trẻ em dưới 13 tuổi. Chúng tôi không cố ý thu thập thông tin cá nhân từ trẻ em dưới 13 tuổi. Nếu chúng tôi biết rằng chúng tôi đã thu thập thông tin cá nhân từ một đứa trẻ dưới 13 tuổi, chúng tôi sẽ thực hiện các bước để xóa thông tin đó càng sớm càng tốt."
+      },
+      "changes": {
+        "title": "9. Thay đổi đối với Chính sách Bảo mật Này",
+        "content": "Chúng tôi có thể cập nhật Chính sách Bảo mật này theo thời gian. Chúng tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào bằng cách đăng Chính sách Bảo mật mới trên Ứng dụng."
+      },
+      "contact": {
+        "title": "10. Liên hệ với Chúng tôi",
+        "content": "Nếu bạn có bất kỳ câu hỏi nào về Chính sách Bảo mật này, vui lòng liên hệ với chúng tôi tại contact@lecole.tech."
+      }
+    }
+  },
+  "termsOfService": {
+    "title": "Điều Khoản Dịch Vụ LECOLE Digital SAT Suite",
+    "lastUpdated": "Cập Nhật Lần Cuối: 24 Tháng 5 Năm 2024",
+    "sections": {
+      "acceptance": {
+        "title": "1. Chấp Nhận Điều Khoản",
+        "content": "Bằng việc truy cập hoặc sử dụng ứng dụng web LECOLE (\"Ứng dụng\"), bạn đồng ý tuân theo các Điều khoản Dịch vụ này (\"Điều khoản\"). Nếu bạn không đồng ý với các Điều khoản này, bạn không được sử dụng Ứng dụng."
+      },
+      "description": {
+        "title": "2. Mô Tả Dịch Vụ",
+        "content": "LECOLE cung cấp tài liệu ôn thi SAT kỹ thuật số, bao gồm đề thi thử, hướng dẫn học tập và các tài nguyên giáo dục khác (gọi chung là \"Dịch vụ\"). Các Dịch vụ chỉ dành cho mục đích sử dụng cá nhân, phi thương mại."
+      },
+      "eligibility": {
+        "title": "3. Điều Kiện Sử Dụng",
+        "content": "Bạn phải ít nhất 13 tuổi để sử dụng Ứng dụng. Nếu bạn dưới 18 tuổi, bạn xác nhận rằng bạn có sự cho phép của cha mẹ hoặc người giám hộ để sử dụng Ứng dụng và đồng ý với các Điều khoản này."
+      },
+      "userAccounts": {
+        "title": "4. Tài Khoản Người Dùng",
+        "content": "Để truy cập một số Dịch vụ nhất định, bạn có thể cần tạo tài khoản người dùng. Bạn chịu trách nhiệm duy trì tính bảo mật của thông tin tài khoản và cho tất cả các hoạt động diễn ra dưới tài khoản của bạn. Bạn đồng ý thông báo cho LECOLE ngay lập tức về bất kỳ việc sử dụng trái phép nào đối với tài khoản của bạn."
+      },
+      "userContent": {
+        "title": "5. Nội Dung Người Dùng",
+        "content": "Bạn có thể có khả năng gửi, đăng hoặc hiển thị nội dung thông qua Ứng dụng (\"Nội dung Người dùng\"). Bạn vẫn giữ quyền sở hữu đối với Nội dung Người dùng của bạn, nhưng bạn cấp cho LECOLE giấy phép không độc quyền, toàn cầu, miễn phí bản quyền để sử dụng, sao chép, sửa đổi, điều chỉnh, xuất bản, dịch, phân phối và hiển thị Nội dung Người dùng của bạn liên quan đến Dịch vụ."
+      },
+      "intellectualProperty": {
+        "title": "6. Quyền Sở Hữu Trí Tuệ",
+        "content": "Ứng dụng và nội dung của nó, bao gồm nhưng không giới hạn ở văn bản, đồ họa, logo, hình ảnh và phần mềm, là tài sản của LECOLE hoặc các bên cấp phép và được bảo vệ bởi luật sở hữu trí tuệ. Bạn không được sử dụng bất kỳ nội dung nào của Ứng dụng mà không có sự đồng ý trước bằng văn bản của LECOLE."
+      },
+      "disclaimer": {
+        "title": "7. Từ Chối Bảo Đảm",
+        "content": "Các Dịch vụ được cung cấp \"nguyên trạng\" và không có bảo đảm dưới bất kỳ hình thức nào, dù rõ ràng hay ngụ ý. LECOLE không đảm bảo rằng Dịch vụ sẽ không bị gián đoạn, không có lỗi hoặc an toàn."
+      },
+      "limitation": {
+        "title": "8. Giới Hạn Trách Nhiệm",
+        "content": "Trong phạm vi tối đa được pháp luật cho phép, LECOLE sẽ không chịu trách nhiệm về bất kỳ thiệt hại gián tiếp, ngẫu nhiên, đặc biệt, hậu quả hoặc trừng phạt nào phát sinh từ hoặc liên quan đến việc bạn sử dụng Ứng dụng hoặc Dịch vụ."
+      },
+      "governingLaw": {
+        "title": "9. Luật Điều Chỉnh và Thẩm Quyền",
+        "content": "Các Điều khoản này sẽ được điều chỉnh và giải thích theo pháp luật của Hoa Kỳ và Việt Nam. Bất kỳ tranh chấp nào phát sinh từ hoặc liên quan đến các Điều khoản này sẽ thuộc thẩm quyền độc quyền của tòa án Hoa Kỳ và Việt Nam."
+      },
+      "changes": {
+        "title": "10. Thay Đổi Điều Khoản",
+        "content": "LECOLE có thể sửa đổi các Điều khoản này bất cứ lúc nào. Việc bạn tiếp tục sử dụng Ứng dụng sau bất kỳ thay đổi nào như vậy đồng nghĩa với việc bạn chấp nhận các Điều khoản mới."
+      },
+      "termination": {
+        "title": "11. Chấm Dứt",
+        "content": "LECOLE có thể chấm dứt quyền truy cập của bạn vào Ứng dụng bất cứ lúc nào vì bất kỳ lý do gì mà không cần thông báo."
+      },
+      "payments": {
+        "title": "12. Thanh Toán và Phí",
+        "content": "12.1 Phương Thức Thanh Toán: LECOLE chấp nhận thanh toán cho Dịch vụ qua các phương thức sau:\n* Thanh Toán Thẻ Ghi Nợ/Tín Dụng/Quốc Tế (Ngoài Việt Nam): Được xử lý an toàn thông qua Lemon Squeezy. Bằng việc sử dụng Lemon Squeezy, bạn đồng ý với điều khoản dịch vụ và chính sách bảo mật của họ, có thể được tìm thấy trên trang web của họ.\n* Thanh Toán Mã QR (Việt Nam): LECOLE cung cấp tùy chọn thanh toán mã QR cho người dùng tại Việt Nam.\n12.2 Phí: Phí cho Dịch vụ được liệt kê trên Ứng dụng. LECOLE có quyền thay đổi phí bất cứ lúc nào.\n12.3 Không hoàn lại: Tất cả các khoản thanh toán cho Dịch vụ là cuối cùng và không được hoàn lại. Vui lòng xem xét kỹ giao dịch mua hàng của bạn trước khi hoàn tất giao dịch.\n12.4 Thuế: Bạn chịu trách nhiệm về bất kỳ khoản thuế áp dụng nào liên quan đến việc mua Dịch vụ của bạn."
+      },
+      "lemonSqueezy": {
+        "title": "13. Lemon Squeezy",
+        "content": "Bằng việc sử dụng Lemon Squeezy để thanh toán, bạn đồng ý bị ràng buộc bởi điều khoản dịch vụ và chính sách bảo mật của Lemon Squeezy. LECOLE không chịu trách nhiệm về bất kỳ vấn đề nào phát sinh từ việc bạn sử dụng Lemon Squeezy."
+      },
+      "qrCodePayments": {
+        "title": "14. Thanh Toán Mã QR",
+        "content": "Bằng việc sử dụng tùy chọn thanh toán mã QR, bạn đồng ý cung cấp thông tin thanh toán chính xác và đầy đủ. LECOLE không chịu trách nhiệm về bất kỳ lỗi hoặc vấn đề nào phát sinh từ thông tin thanh toán không chính xác."
+      },
+      "updates": {
+        "title": "15. Cập Nhật và Sửa Đổi",
+        "content": "LECOLE có thể cập nhật các Điều khoản Dịch vụ này theo thời gian. Chúng tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào bằng cách đăng Điều khoản Dịch vụ mới lên Ứng dụng. Việc bạn tiếp tục sử dụng Ứng dụng sau khi đăng các thay đổi đồng nghĩa với việc bạn chấp nhận những thay đổi đó."
+      },
+      "contact": {
+        "title": "16. Thông Tin Liên Hệ",
+        "content": "Nếu bạn có bất kỳ câu hỏi nào về các Điều khoản này, vui lòng liên hệ với LECOLE tại: contact@lecole.tech."
+      }
+    }
+  },
+  "about": {
+    "madeWithPrideIn": "Tự hào đến từ",
+    "message": "## Câu chuyện của nhà sáng lập\n\nTôi bắt đầu hành trình của mình là một học sinh bình thường ở Việt Nam. Tôi không nghĩ mình là thiên tài gì cả, nhưng tôi luôn quyết tâm phải thành công. Tôi đã nỗ lực hết mình và đã vào được trường đại học hàng đầu Việt Nam. Trong quá trình đó, tôi đã tiếp cận được công cụ quan trọng nhất cho việc học: internet. Nhờ đó, tôi đã có thể học mọi thứ cần thiết để theo đuổi con đường học vấn, kể cả việc đạt điểm SAT tuyệt đối và giành được học bổng. Được truyền cảm hứng từ trải nghiệm đó, tôi muốn chia sẻ những cơ hội này với các bạn học sinh khác. Đó là lý do tôi thành lập LECOLE — để mang đến một bộ công cụ hiệu quả với chi phí hợp lý, giúp các bạn đạt được mục tiêu của riêng mình.\n\nTrên hành trình đó, tôi may mắn gặp được hai người bạn tuyệt vời, mà giờ đây đã là cộng sự thân thiết. Chúng tôi bắt đầu cùng nhau phát triển ý tưởng này cho đến khi ra mắt phiên bản đầu tiên của LECOLE, một nền tảng luyện thi Digital SAT đơn giản. Dù còn đơn giản, ứng dụng ban đầu này đã nhanh chóng thu hút một lượng người dùng đáng kể, mang lại cho chúng tôi những phản hồi vô cùng quý giá. Phương châm của chúng tôi là xây dựng một sản phẩm không chỉ là công cụ, mà còn là một cộng đồng — một nơi để các bạn có thể học hỏi, chia sẻ kiến thức và chinh phục mục tiêu.\n\nCách tiếp cận lấy người dùng làm trọng tâm đã giúp chúng tôi nhận được sự chú ý từ báo chí và truyền thông, bao gồm cả Đài Truyền hình Việt Nam (VTV2), và thu hút sự quan tâm từ các nhà đầu tư nước ngoài. Tuy nhiên, ở thời điểm hiện tại, ưu tiên của tôi là giữ cho công ty tinh gọn và tập trung tối đa vào việc phát triển sản phẩm. Điều này đảm bảo sự tăng trưởng của LECOLE luôn tự nhiên và gắn liền với nhu cầu, trải nghiệm của người dùng.\n\n## Sứ mệnh của chúng tôi\n\nGiao diện của LECOLE phản ánh triết lý cốt lõi của chúng tôi: trải nghiệm người dùng vượt trội và sự dễ dàng, sự trực quan khi sử dụng là ưu tiên hàng đầu. Chúng tôi nỗ lực tạo ra một sản phẩm thân thuộc đến mức bạn không cần bất kỳ hướng dẫn nào — cứ thế sử dụng, tự nhiên như chính đôi tay của bạn vậy.\n\nBan đầu, chúng tôi phát triển ứng dụng này cho chính nhu cầu học tập và nghiên cứu của bản thân, và hy vọng nó cũng sẽ hữu ích cho mọi người. Động lực sâu xa của chúng tôi đến từ chính sự đòi hỏi cao và chất lượng của hệ thống giáo dục và các kỳ thi tại Việt Nam. Chúng tôi mong muốn phát huy thế mạnh đó để giúp mọi người học tập dễ dàng và hiệu quả hơn.\n\nTrong tương lai, chúng tôi sẽ tiếp tục phát triển nền tảng với nhiều tính năng và môn học hơn nữa. Khi LECOLE lớn mạnh hơn, chúng tôi cam kết sẽ mang đến ngày càng nhiều nội dung miễn phí và đóng góp nhiều hơn cho cộng đồng. Chúng tôi tin rằng giáo dục là nền tảng và không có giới hạn — không gì có thể ngăn cản bước chân của người thực sự ham học hỏi.\n\n## Khát vọng của chúng tôi\n\nTầm nhìn của chúng tôi là xây dựng LECOLE thành điểm đến lý tưởng cho học sinh, sinh viên toàn cầu — nơi mọi người cùng học hỏi, chia sẻ kiến thức và chinh phục ước mơ. Chúng tôi muốn được mang chất lượng giáo dục Việt Nam vươn ra thế giới, kết hợp cùng sức mạnh của AI tiên tiến để tạo ra một trải nghiệm học tập độc bản.\n\nDẫu vậy, chúng tôi cũng hiểu rằng LECOLE vẫn đang ở những bước đầu tiên. Chúng tôi là một đội ngũ nhỏ, vẫn đang từng ngày tìm tòi, học hỏi để tạo ra một sản phẩm thực sự tuyệt vời. Chắc chắn sẽ không tránh khỏi những thiếu sót, nhưng chúng tôi chắc chắn rằng: sẽ luôn lắng nghe ý kiến đóng góp của các bạn và nỗ lực cải thiện LECOLE với tốc độ nhanh nhất có thể.\n\nLời cuối cùng, phiên bản mới nhất và sự đầu tư chỉn chu từ đội ngũ LECOLE là một tinh thần hăng hái hưởng ứng thông điệp của thủ tướng chính phủ Việt Nam, để phát triển 'vươn mình' trong thời đại mới, 'kỷ nguyên vươn mình của dân tộc.'\n\nTôi thực sự tin rằng hành trình này chỉ mới bắt đầu, và tôi rất hào hứng về tương lai mà tất cả chúng ta sẽ cùng nhau xây dựng. Cảm ơn các bạn đã đồng hành cùng LECOLE trên chặng đường vừa qua.\n"
+  }
+}

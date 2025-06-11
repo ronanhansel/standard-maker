@@ -1,0 +1,483 @@
+{
+  "common": {
+    "termsOfService": "Terms of service",
+    "privacyPolicy": "Privacy Policy",
+    "login": "Login"
+  },
+  "hero": {
+    "pill": "Coming soon on 15th May",
+    "headline": "Unblock your mind and supercharge your",
+    "headlineAdjective1": "thinking",
+    "headlineAdjective2": "learning",
+    "headlineAdjective3": "researching",
+    "headlineAdjective4": "testing",
+    "tagline": "An agentic, AI‑powered workspace editor that anticipates context and orchestrates your workflows, easing even the most complex research and learning tasks.",
+    "cta": "Get launch notice"
+  },
+  "header": {
+    "home": "Home",
+    "product": "Product",
+    "pricing": "Pricing",
+    "careers": "Careers",
+    "careersDesc": "Join us and build the future of education",
+    "contact": "Contact",
+    "contactDesc": "Get in touch with us and let us know how we can help you",
+    "productDesc": "An agentic, AI-powered workspace editor that anticipates context and orchestrates your workflows, easing even the most complex research and learning tasks.",
+    "features": "Features",
+    "featuresDesc": "Explore our powerful features",
+    "company": "Company",
+    "companyDesc": "We are a team of engineers dedicated to making education more accessible and effective.",
+    "companion": "Companion",
+    "companionDesc": "An autonomous assistant that drafts, summarizes, and organizes research so you stay focused on insight, not busywork.",
+    "workspace": "Workspace",
+    "workspaceDesc": "A context‑aware workspace that recognizes topic shifts, resurfaces relevant notes, and links concepts automatically for effortless knowledge flow.",
+    "calendar": "Calendar",
+    "calendarDesc": "A calendar that automatically organizes your research, assignments, and events, so you never miss a deadline.",
+    "aboutUs": "About us",
+    "aboutUsDesc": "We are a team of engineers dedicated to making education more accessible and effective.",
+    "contactUs": "Contact us",
+    "contactUsDesc": "We'd love to hear from you.",
+    "bookDemo": "Book a demo",
+    "theme": "Theme"
+  },
+  "footer": {
+    "home": "Home",
+    "features": "Features",
+    "company": "Company",
+    "followUs": "Follow Us",
+    "companion": "Companion",
+    "workspace": "Workspace",
+    "calendar": "Calendar",
+    "aboutUs": "About us",
+    "contactUs": "Contact us",
+    "tagline": "For a better education experience.",
+    "language": "Language"
+  },
+  "features": {
+    "platform": "Platform",
+    "intelligentFeatures": "Intelligent features, zero friction.",
+    "contextAwareWorkspace": "Context‑Aware Workspace",
+    "contextAwareDesc": "A living notebook that senses topic shifts, resurfaces relevant notes, and links concepts automatically for effortless knowledge flow.",
+    "realTimeSmartEditing": "Real‑Time Smart Editing",
+    "realTimeSmartEditingDesc": "Type as fast as you think with latency‑free predictive typing and inline AI suggestions.",
+    "multimodalCapture": "Multimodal Capture",
+    "multimodalCaptureDesc": "Drop images, equations, or voice notes—LECOLE transcribes and tags everything instantly.",
+    "knowledgeGraphView": "Knowledge Graph View",
+    "knowledgeGraphViewDesc": "Visualize relationships between ideas in an interactive, auto‑generated concept map.",
+    "adaptiveStudyPlans": "Adaptive Study Plans",
+    "adaptiveStudyPlansDesc": "Get personalized revision schedules based on curriculum milestones and real‑time progress.",
+    "instantCitations": "Instant Citations & References",
+    "instantCitationsDesc": "One click to auto‑format citations and bibliographies in any major style.",
+    "crossDeviceSync": "Cross‑Device Sync",
+    "crossDeviceSyncDesc": "Keep your workspace updated across laptop, tablet, and phone—even when offline.",
+    "agenticLearningCompanion": "Agentic Learning Companion",
+    "agenticLearningCompanionDesc": "An autonomous assistant that drafts, summarizes, and organizes research so you stay focused on insight, not busywork.",
+    "featuresDescription": "Context‑aware workspace, agentic learning companion, and tools designed to simplify every study and research challenges."
+  },
+  "fastest": {
+    "headlinePart1": "The",
+    "fastest": "fastest",
+    "headlinePart2": "note taking",
+    "headlinePart3": "experience in the world",
+    "taglinePart1": "Obsessed with speed, we built LECOLE Workspace to be the fastest note taking app in the world.",
+    "taglinePart2": "It is not only fast, but intuitive, it understands you even before you type.",
+    "prefetching": "This technology allow us to 'predict' your future actions and preload the data in the background.",
+    "caching": "After the data is loaded, it is saved into your current session to avoid loading it again.",
+    "localFirstApproach": "Local-first approach",
+    "localFirstApproachDesc": "Maximize the power of your device. All operations will be performed on your device, instant and secure.",
+    "optimisedForSpeed": "Optimised for speed and security",
+    "wideRangeOfTools": "Wide range of tools",
+    "toExpressYourIdeas": "to express your ideas",
+    "goalsWithLeastAmountOfClicks": "Myriads of tools with native integrations to help you finish your goals with least amount of clicks.",
+    "excalidraw": "Excalidraw",
+    "excalidrawDesc": "Excalidraw is a whiteboard tool that allows you to create beautiful diagrams and sketches.",
+    "mermaidDiagrams": "Mermaid Diagrams",
+    "mermaidDiagramsDesc": "Mermaid is a diagramming and charting tool that allows you to represent your ideas in the most concrete way.",
+    "customFiles": "Custom files",
+    "customFilesDesc": "Upload any file to form your own knowledge graph and ask questions about it."
+  },
+  "inSync": {
+    "headline": "Secured and in sync",
+    "description": "Your notes are always in sync across all your devices via Google Drive, with more cloud storage to come. Your data is secured and never crosses our servers."
+  },
+  "smartest": {
+    "academicNeeds": "Build from scratch, from your academic needs",
+    "academicTagline": "An intuitive note taking experience that makes writing notes feel like second nature.",
+    "academicDescription": "You should spend more time listening to lectures and less time typing notes.",
+    "aiModels": "Powered by the best AI models",
+    "aiModelsTagline": "Ultilise State of The Art LLMs to bring your note taking experience to a whole new level",
+    "aiModelsDescription": "We offer every model you can possibly need. Pick the best one depending on your use case. If there's a new model you'd want to add, let us know and we'll make them available within hours.",
+    "academicallyTuned": "Academically-tuned",
+    "academicallyTunedDesc": "Embedded with academic knowledge, standardised tests, research papers and more.",
+    "agenticToolset": "Agentic toolset",
+    "agenticToolsetDesc": "Our models are equipped with dozens of tools (still counting) to help you with your work.",
+    "realTimeInternet": "Real-time internet access",
+    "realTimeInternetDesc": "Get verifiable answers to your questions with non-hallucinated responses.",
+    "knowsYourKnowledge": "Knows your knowledge",
+    "knowsYourKnowledgeDesc": "Get answers from your workspace or refer to files or docs. Use the model's response in one click.",
+    "multiModal": "Multi-modal",
+    "multiModalDesc": "Pictures, audio, or YouTube videos. We support it all. You don't have to type it out. Let the model do the work.",
+    "speedy": "Speedy",
+    "speedyDesc": "Just like out notes, our AI models are fast, like really fast. Try it out for and you will see.",
+    "growsWithYou": "Grows with you",
+    "growsWithYouDesc": "AI remembers who you are (securely), and has access to your entire workspace (with your permission), it'll be epic for a personal study buddy.",
+    "everythingElse": "And everything else",
+    "everythingElseDesc": "It's not just about the features, it's about the experience. We've got you covered."
+  },
+  "workspace": {
+    "title": "Workspace",
+    "headline": "Your perfect digital workspace environment",
+    "tagline": "A powerful workspace that adapts to your workflow and",
+    "enhancesProductivity": "enhances your productivity.",
+    "flexibleLayout": "Flexible Layout",
+    "flexibleLayoutDesc": "Customize your workspace with multiple panels, tabs, and split views to organize your content exactly how you want it.",
+    "seamlessSync": "Seamless Sync",
+    "seamlessSyncDesc": "Your workspace automatically syncs across all your devices, ensuring you always have access to your latest work.",
+    "realTimeCollaboration": "Real-time Collaboration",
+    "realTimeCollaborationDesc": "Work together with teammates in real-time, seeing each other's changes instantly as you collaborate on projects.",
+    "collaboration": "Collaboration",
+    "collaborationHeadline": "Work together seamlessly",
+    "withYourTeam": "with your team",
+    "collaborationTagline": "Collaborate in real-time with powerful tools designed for teamwork",
+    "realTimeEditing": "Real-time Editing",
+    "realTimeEditingDesc": "Edit documents simultaneously with your team members, seeing changes as they happen with live cursors and presence indicators.",
+    "versionControl": "Version Control",
+    "versionControlDesc": "Track changes with built-in version history, allowing you to review, compare, and restore previous versions of your work.",
+    "cloudIntegration": "Cloud Integration",
+    "cloudIntegrationDesc": "Seamlessly connect with popular cloud services to import, export, and share your work across different platforms.",
+    "crossPlatform": "Cross-Platform",
+    "crossPlatformHeadline": "Access your workspace",
+    "fromAnyDevice": "from any device",
+    "comingSoon": "Coming Soon",
+    "crossPlatformTagline": "Your workspace follows you everywhere, with native apps for all major platforms",
+    "desktopApps": "Desktop Apps",
+    "desktopAppsDesc": "Powerful native applications for Windows, macOS, and Linux with full system integration and offline capabilities.",
+    "tabletExperience": "Tablet Experience",
+    "tabletExperienceDesc": "Optimized tablet apps with touch and stylus support, perfect for note-taking and drawing on iPad and Android tablets.",
+    "mobileAccess": "Mobile Access",
+    "mobileAccessDesc": "Stay productive on the go with fully-featured mobile apps that sync instantly with your desktop workspace."
+  },
+  "product": {
+    "aboutTheProduct": "About the product",
+    "productDescription": "We are on a mission to make learning accessible to everyone. The very first platform to put the emphasis on the learner's experience.",
+    "subscribe": {
+      "title": "Stay updated with the latest news",
+      "description": "Subscribe to our newsletter to receive the latest updates and news about our product.",
+      "nameLabel": "Name",
+      "namePlaceholder": "Your name",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Your email address",
+      "buttonText": "Subscribe",
+      "submittingText": "Subscribing...",
+      "successTitle": "Thank you for subscribing!",
+      "successMessage": "We'll keep you updated with the latest news and product updates."
+    },
+    "comingSoonFeatures": {
+      "calendar": "LECOLE Calendar",
+      "calendarDesc": "Manage your schedule and tasks with ease.",
+      "community": "LECOLE Community",
+      "communityDesc": "Publish your notes and create conversations with your peers.",
+      "workspace": "LECOLE Workspace App",
+      "workspaceDesc": "Standalone app for iOS, Android, MacOS and Windows.",
+      "tab": "Tab tab",
+      "tabDesc": "Autocomplete your notes with AI. Just simple tabbing and let LECOLE do the rest."
+    }
+  },
+  "products": {
+    "title": "Products",
+    "workspace": {
+      "title": "Workspace",
+      "description": "A modern, AI-powered workspace that adapts to your workflow and enhances your productivity."
+    },
+    "companion": {
+      "title": "Companion",
+      "description": "Use any AI model you want to help you with your work."
+    }
+  },
+
+  "pricing": {
+    "aboutThePrice": "About the price",
+    "tagline": "Free for all learners with an affordable upgrade to elevate your workspace with AI-powered features.",
+    "free": "Free",
+    "freePrice": "$0",
+    "freeDescription": "Free for all learners",
+    "pro": "Pro",
+    "proPrice": "$10",
+    "proDescription": "Leverage the power of AI",
+    "getStarted": "Get Started",
+    "getStartedLink": "https://store.lecole.tech/buy/22765e2f-ae5c-4460-b152-e4c230b8c7f7",
+    "features": {
+      "unlimitedNotes": "Unlimited notes",
+      "crossDeviceSync": "Cross device sync",
+      "fastestNoteTaking": "Fastest note taking",
+      "storage25MB": "25MB public note storage",
+      "aiAutoCompletion": "AI auto-completion",
+      "threeLLMModels": "3 LLM models",
+      "allFreeFeatures": "All free features +",
+      "storage2GB": "2GB public note storage",
+      "unlimitedAI": "Unlimited AI auto-completion",
+      "tenPlusModels": "10+ LLM models",
+      "customLLMAPI": "Custom LLM API",
+      "supportMission": "Support our mission"
+    },
+    "comparisonTable": {
+      "free": "Free",
+      "pro": "Pro",
+      "features": "Features",
+      "unlimitedNote": "Unlimited note",
+      "publicStorage25MB": "l.25MB Public storage",
+      "publicStorage2GB": "2GB public storage",
+      "crossDeviceSync": "Cross device sync",
+      "realtimeSync": "Real-time cross device sync",
+      "limitedAutoCompletion": "l.100 AI auto-completion per month",
+      "unlimitedAutoCompletion": "Unlimited AI auto-completion",
+      "liteModels": "l.3 Lite models",
+      "tenPlusModels": "10+ models",
+      "limitedMessages": "l.20 free messages per month",
+      "premiumMessages": "1500 premium messages per month",
+      "noYouTubeAnalysis": "YouTube analysis",
+      "multiMediaAnalysis": "YouTube, Image, PDF, Audio analysis",
+      "noCustomAPI": "x.Custom LLM API",
+      "customAPI": "Custom LLM API",
+      "communitySupport": "l.Community support",
+      "prioritySupport": "Priority support",
+      "noExport": "x.Export to PDF, Markdown, Docx",
+      "export": "Export to PDF, Markdown, Docx",
+      "backup": "Backup your notes",
+      "limitedSAT": "l.Token limit SAT question generator",
+      "unlimitedSAT": "Unlimited SAT question generator",
+      "fastestExperience": "Fastest, most secure experience"
+    },
+    "callOut": "Bringing world-class engineering to the education space. From Vietnam with pride."
+  },
+  "oauthHomepage": {
+    "title": "LECOLE - Digital SAT Practice Platform",
+    "appPurpose": "Application Purpose",
+    "appPurposeDesc": "LECOLE is a comprehensive digital learning platform designed to help students prepare for standardized tests, particularly the Digital SAT. Our platform provides personalized practice questions, study materials, and AI-powered learning assistance to help students achieve their academic goals. We combine advanced AI technology with educational expertise to create an effective and engaging learning experience.",
+    "identity": "Accurate representation of the app's identity",
+    "identityDesc": "LECOLE (lecole.tech) is an educational technology platform that generates personalized Digital SAT practice questions and provides comprehensive test preparation materials. Our application serves as a complete learning companion for students preparing for standardized tests and pursuing higher education.",
+    "userData": "What this app will do with user data",
+    "userDataDesc": "LECOLE collects minimal user data necessary for providing personalized educational services: name, email address, and profile picture (if available). This information is used to: (1) Create and maintain user accounts, (2) Personalize learning experiences and track progress, (3) Provide customer support and technical assistance, (4) Protect our platform from unauthorized access and abuse, (5) Send educational updates and progress reports (with user consent). We never sell user data to third parties and comply with educational privacy standards including FERPA and COPPA.",
+    "enhanceFunc": "How this app enhances user functionality",
+    "enhanceFuncDesc": "LECOLE enhances student learning through: (1) AI-powered personalized question generation based on individual learning patterns, (2) Adaptive practice tests that adjust difficulty based on performance, (3) Comprehensive performance analytics and progress tracking, (4) Interactive study materials and explanations, (5) Collaborative learning features for peer interaction, (6) Integration with popular educational tools and platforms. Our platform adapts to each student's learning style and pace to maximize educational effectiveness.",
+    "privacyPolicyLink": "Privacy Policy:",
+    "privacyPolicyLinkText": "View our complete Privacy Policy",
+    "appDesc": "Educational context and mission",
+    "appDescText": "LECOLE is committed to democratizing access to high-quality test preparation and educational resources. Our platform specifically addresses the needs of students preparing for the Digital SAT and other standardized tests. We serve educational institutions, individual students, and families by providing affordable, effective, and accessible learning tools. Our mission is to help students achieve their academic goals and unlock educational opportunities through technology-enhanced learning.",
+    "limitedUseTitle": "Google OAuth2 Limited Use Disclosure",
+    "limitedUseDesc": "LECOLE's use of information received from Google APIs adheres to the",
+    "googleAPIPolicy": "Google API Services User Data Policy",
+    "limitedUseDetails": "including the Limited Use requirements. We only request basic profile information (name, email, profile picture) necessary for account creation and user identification. We do not request access to any Google services data beyond basic profile information."
+  },
+  "privacyPolicy": {
+    "title": "LECOLE Digital SAT Suite Privacy Policy",
+    "lastUpdated": "Last Updated: 24 May 2024",
+    "sections": {
+      "introduction": {
+        "title": "1. Introduction",
+        "content": "LECOLE (\"we,\" \"us,\" or \"our\") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share your personal information when you use our Digital SAT Suite web app (\"App\"). By using the App, you consent to the practices described in this Privacy Policy."
+      },
+      "infoCollect": {
+        "title": "2. Information We Collect",
+        "personalInfo": {
+          "title": "2.1 Personal Information",
+          "content": "We may collect the following types of personal information when you create an account or use the App:",
+          "contactInfo": "* Contact Information: Name, email address.",
+          "paymentInfo": "* Payment Information: Payment details when you purchase Services (collected and processed securely by Lemon Squeezy for debit/credit/international payments or via QR code for payments in Vietnam).",
+          "userContent": "* User Content: Information you submit, post, or display through the App, such as practice test answers or study notes.",
+          "usageData": "* Usage Data: Information about how you use the App, such as the features you access, the pages you visit, and the time spent on each page."
+        },
+        "nonPersonalInfo": {
+          "title": "2.2 Non-Personal Information",
+          "content": "We may also collect non-personal information, such as your device type, browser type, and IP address. This information is collected through cookies and similar technologies."
+        }
+      },
+      "useInfo": {
+        "title": "3. How We Use Your Information",
+        "content": "We use your information for the following purposes:",
+        "points": [
+          "* To Provide and Improve Services: To provide, maintain, and improve the App and its features, to personalize your experience, and to analyze usage trends.",
+          "* To Communicate with You: To send you administrative information, updates, notifications, and marketing communications if you have opted in to receive them.",
+          "* To Process Payments: To process payments for Services through Lemon Squeezy or QR code payments.",
+          "* To Protect Our Rights: To protect our rights, property, or safety, or the rights, property, or safety of others."
+        ]
+      },
+      "shareInfo": {
+        "title": "4. How We Share Your Information",
+        "content": "We may share your information with the following parties:",
+        "points": [
+          "* Service Providers: We may share your information with third-party service providers who help us operate the App, process payments, or provide other services.",
+          "* Lemon Squeezy: We share payment information with Lemon Squeezy to process payments securely.",
+          "* Legal Compliance: We may share your information if required by law, regulation, or legal process.",
+          "* Business Transfers: We may share or transfer your information in connection with a merger, acquisition, or sale of all or a portion of our assets."
+        ]
+      },
+      "choices": {
+        "title": "5. Your Choices",
+        "content": "You have the following choices regarding your information:",
+        "points": [
+          "* Account Information: You can update or correct your account information at any time.",
+          "* Marketing Communications: You can opt out of receiving marketing communications by following the instructions in those communications.",
+          "* Cookies: You can disable cookies through your browser settings, but this may limit your ability to use certain features of the App."
+        ]
+      },
+      "security": {
+        "title": "6. Data Security",
+        "content": "We take reasonable measures to protect your information from unauthorized access, disclosure, alteration, or destruction. However, no method of transmission over the internet or electronic storage is completely secure."
+      },
+      "retention": {
+        "title": "7. Data Retention",
+        "content": "We will retain your information for as long as your account is active or as needed to provide you with Services. We may also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements."
+      },
+      "children": {
+        "title": "8. Children's Privacy",
+        "content": "The App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete the information as soon as possible."
+      },
+      "changes": {
+        "title": "9. Changes to This Privacy Policy",
+        "content": "We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the App."
+      },
+      "contact": {
+        "title": "10. Contact Us",
+        "content": "If you have any questions about this Privacy Policy, please contact us at contact@lecole.tech."
+      }
+    }
+  },
+  "termsOfService": {
+    "title": "LECOLE Digital SAT Suite Terms of Service",
+    "lastUpdated": "Last Updated: 24 May 2024",
+    "sections": {
+      "acceptance": {
+        "title": "1. Acceptance of Terms",
+        "content": "By accessing or using the LECOLE web app (\"App\"), you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree to these Terms, you may not use the App."
+      },
+      "description": {
+        "title": "2. Description of Service",
+        "content": "LECOLE provides digital SAT test preparation materials, including practice tests, study guides, and other educational resources (collectively, the \"Services\"). The Services are intended for personal, non-commercial use only."
+      },
+      "eligibility": {
+        "title": "3. Eligibility",
+        "content": "You must be at least 13 years old to use the App. If you are under 18, you represent that you have your parent or guardian's permission to use the App and agree to these Terms."
+      },
+      "userAccounts": {
+        "title": "4. User Accounts",
+        "content": "To access certain Services, you may need to create a user account. You are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account. You agree to notify LECOLE immediately of any unauthorized use of your account."
+      },
+      "userContent": {
+        "title": "5. User Content",
+        "content": "You may have the ability to submit, post, or display content through the App (\"User Content\"). You retain ownership of your User Content, but you grant LECOLE a non-exclusive, worldwide, royalty-free license to use, reproduce, modify, adapt, publish, translate, distribute, and display your User Content in connection with the Services."
+      },
+      "intellectualProperty": {
+        "title": "6. Intellectual Property",
+        "content": "The App and its content, including but not limited to text, graphics, logos, images, and software, are the property of LECOLE or its licensors and are protected by intellectual property laws. You may not use any of the App's content without LECOLE's prior written consent."
+      },
+      "disclaimer": {
+        "title": "7. Disclaimer of Warranties",
+        "content": "The Services are provided \"as is\" and without warranties of any kind, either express or implied. LECOLE does not warrant that the Services will be uninterrupted, error-free, or secure."
+      },
+      "limitation": {
+        "title": "8. Limitation of Liability",
+        "content": "To the maximum extent permitted by law, LECOLE shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your use of the App or the Services."
+      },
+      "governingLaw": {
+        "title": "9. Governing Law and Jurisdiction",
+        "content": "These Terms shall be governed by and construed in accordance with the laws of the United States and Vietnam. Any disputes arising out of or in connection with these Terms shall be subject to the exclusive jurisdiction of the courts of the United States and Vietnam."
+      },
+      "changes": {
+        "title": "10. Changes to Terms",
+        "content": "LECOLE may modify these Terms at any time. Your continued use of the App after any such changes constitutes your acceptance of the new Terms."
+      },
+      "termination": {
+        "title": "11. Termination",
+        "content": "LECOLE may terminate your access to the App at any time for any reason without notice."
+      },
+      "payments": {
+        "title": "12. Payments and Fees",
+        "content": "12.1 Payment Methods: LECOLE accepts payment for Services via the following methods:\n* Debit/Credit/International Payments (Outside of Vietnam): Processed securely through Lemon Squeezy. By using Lemon Squeezy, you agree to their terms of service and privacy policy, which can be found on their website.\n* QR Code Payments (Vietnam): LECOLE provides a QR code payment option for users in Vietnam.\n12.2 Fees: The fees for the Services are as listed on the App. LECOLE reserves the right to change the fees at any time.\n12.3 Non-refundable: All payments for Services are final and non-refundable. Please carefully review your purchase before completing the transaction.\n12.4 Taxes: You are responsible for any applicable taxes associated with your purchase of Services."
+      },
+      "lemonSqueezy": {
+        "title": "13. Lemon Squeezy",
+        "content": "By using Lemon Squeezy to make a payment, you agree to be bound by Lemon Squeezy's terms of service and privacy policy. LECOLE is not responsible for any issues arising from your use of Lemon Squeezy."
+      },
+      "qrCodePayments": {
+        "title": "14. QR Code Payments",
+        "content": "By using the QR code payment option, you agree to provide accurate and complete payment information. LECOLE is not responsible for any errors or issues arising from incorrect payment information."
+      },
+      "updates": {
+        "title": "15. Updates and Modifications",
+        "content": "LECOLE may update these Terms of Service from time to time. We will notify you of any changes by posting the new Terms of Service on the App. Your continued use of the App following the posting of changes constitutes your acceptance of such changes."
+      },
+      "contact": {
+        "title": "16. Contact Information",
+        "content": "If you have any questions about these Terms, please contact LECOLE at: contact@lecole.tech."
+      }
+    }
+  },
+  "k12": {
+    "platform": "Extension",
+    "forStudents": "For Students",
+    "forStudentsDesc": "Manage your notes and study materials with ease.",
+    "simplifiedNoteTaking": "Simplified Note-Taking",
+    "simplifiedNoteTakingDesc": "Focus on understanding lessons while LECOLE helps organise your notes.",
+    "conceptConnections": "Concept Connections",
+    "conceptConnectionsDesc": "See how different subjects and topics connect for deeper understanding.",
+    "studyAssistance": "Study Assistance",
+    "studyAssistanceDesc": "Generate practice questions, summaries, and study guides from your notes.",
+    "satIntegration": "Native support for the SAT",
+    "satIntegrationDesc": "Practice the SAT right at your fingertips, with more exams coming soon."
+  },
+  "companion": {
+    "platform": "AI Companion",
+    "title": "Your Intelligent Learning Partner",
+    "description": "An autonomous assistant that drafts, summarizes, and organizes research so you stay focused on insight, not busywork.",
+    "contextAware": "Context-Aware",
+    "contextAwareDesc": "Understands your learning context and provides relevant assistance based on your current study materials.",
+    "adaptiveLearning": "Adaptive Learning",
+    "adaptiveLearningDesc": "Adjusts to your learning style and pace, providing personalized guidance and support.",
+    "smartSuggestions": "Smart Suggestions",
+    "smartSuggestionsDesc": "Proactively offers relevant resources and insights to enhance your learning experience.",
+    "naturalInteraction": "Natural Interaction",
+    "naturalInteractionDesc": "Communicate naturally with your AI companion through text, voice, or multimodal inputs."
+  },
+  "researcher": {
+    "platform": "Extension",
+    "forResearchers": "For Researchers",
+    "forResearchersDesc": "Manage your research papers and notes with ease.",
+    "literatureConnections": "Literature Connections",
+    "literatureConnectionsDesc": "Discover connections between papers and research you might have missed.",
+    "advancedOrganization": "Advanced Organization",
+    "advancedOrganizationDesc": "Organize complex research with intelligent categorization and tagging.",
+    "insightGeneration": "Insight Generation",
+    "insightGenerationDesc": "Uncover patterns and generate hypotheses based on your collected research."
+  },
+  "faq": {
+    "faq": "FAQ",
+    "frequentlyAskedQuestions": "Frequently Asked Questions",
+    "questionsAnswers": "Have questions? We've got answers.",
+    "anyQuestions": "Any questions? Reach out",
+    "platformsQuestion": "What platforms does LECOLE support?",
+    "platformsAnswer": "LECOLE runs in any modern web browser and we will soon offer dedicated apps for iOS, Android, MacOS and Window.",
+    "privacyQuestion": "Is my data secure and private?",
+    "privacyAnswer": "Yes. LECOLE follows FERPA and GDPR guidelines, encrypts data in transit and at rest, and never sells student information.",
+    "agenticQuestion": "How is the Agentic Learning Companion different from regular AI chat?",
+    "agenticAnswer": "It maintains long‑term context from your notes and proactively organizes, drafts, and schedules, acting more like a co‑researcher than a chatbot.",
+    "collaborationQuestion": "Can I collaborate with classmates or colleagues?",
+    "collaborationAnswer": "Absolutely. Real‑time co‑editing, inline comments, and shared workspaces let teams create together from anywhere.",
+    "freePlanQuestion": "Do you offer a free plan?",
+    "freePlanAnswer": "Yes. Students can start with a generous free tier; premium plans add advanced AI features."
+  },
+  "cta": {
+    "getStarted": "Get started",
+    "startThinkingFreely": "Start thinking freely with LECOLE",
+    "joinThousands": "Join thousands of students and researchers accelerating their learning with an AI‑powered workspace.",
+    "cta": "Get launch notice",
+    "seeHowItWorks": "See How It Works"
+  },
+  "comingSoon": {
+    "title": "In the making"
+  },
+  "about": {
+    "madeWithPrideIn": "Made with pride in",
+    "message": "## Founder's story\n\nI started my journey as a modest student in Vietnam. I did not consider myself a genius,\nbut I was determined to succeed. I worked hard and was able to get into the best\nuniversity in Vietnam. During the process, I got access to the most important toolset\nfor my learning: the internet. I was able to learn any thing I needed in order to embark\non my academic journey, including getting a perfect score on the SAT and\nscholarships. Inspired by this experience, I wanted to share these possibilities with other students.\nThat's why I founded LECOLE — to provide an affordable and effective toolset helping them reach their own goals.\n\nAlong the way, I was lucky to have met two people who are now my great friends.\nWe started to work on this idea together until we got the first version of LECOLE as a simple\nDigital SAT practice platform. Despite its simplicity, this early app quickly\namassed a significant user base, providing us with invaluable feedback. Our mantra is to build\na product that is not just a tool, but a community. We want to create a place where you\ncan learn, share your knowledge and achieve your goals.\n\nThis user-centric approach has earned us recognition from media outlets, including National Television,\nand attracted interest from foreign investors. However, for now, my priority is to keep the company lean\nand intensely focused on product development. This ensures our growth remains organic and directly guided\nby the needs and experiences of our users.\n\n## Our mission\n\nThe interface of our apps reflects our core philosophy: exceptional user experience and intuitive ease-of-use are paramount.\nWe strive to create a product so intuitive that tutorials aren't necessary—something you can use easily, almost intuitively, like your own hand tools.\n\nWe originally developed this application for our own use as students and researchers and hoped that it might be useful to others as well.\nFundamentally, our motivation comes from the rigorous standards of Vietnam's competitive examinations and educational system;\nwe are committed to taking advantage of that quality to enable everyone to learn more easily and effectively.\n\nIn the future, we plan on continuing to develop our platform with more features and subjects.\nAs we grow further, we are committed to making more content free and giving back to the community.\nWe firmly believe that education is basic and boundless—nothing should come in the way of a motivated learner.\n\n## Our aspiration\n\nOur vision is to build the ultimate destination for students worldwide to learn, share knowledge, and chase their dreams.\nWe wish to take the torch of Vietnamese educational quality to the global stage and combine it with the power of advanced AI to design a truly effective and enjoyable experience of learning.\n\nWith that in mind, we know the company is in its early stages.\nWe are a small team now, still figuring out how to make a truly incredible product.\nThere will be errors along the way, but here is our promise to you: we will always listen to your feedback and strive to improve our site at record-breaking speed.\n\nLastly, our team at LECOLE, we pride ourselves at the latest pivot of the company as it reflects our passion for innovation and change. We want to share the message of a world-class product, originating from the S-shaped country and to express our following the ethos of Vietnamese government in the Aspirational Era.\n\nI truly believe that our adventure is just beginning, and I'm excited about the future we can build together. Thanks for traveling with us so far.\n"
+  }
+}
